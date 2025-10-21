@@ -1,5 +1,4 @@
 # spanning-tree-optimization
----
 ## Overview
 
 This project demonstrates the computation and visualization of several spanning tree optimizations from a weighted undirected graph loaded from an adjacency matrix file named `adj_matrix.csv`.
