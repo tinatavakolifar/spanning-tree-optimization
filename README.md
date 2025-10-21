@@ -35,9 +35,7 @@ cd spanning-tree-optimization
 
 Python ≥ 3.9
 
-numpy ≥ 1.25
-matplotlib ≥ 3.8
-networkx ≥ 3.1
+Libraries: numpy ≥ 1.25, matplotlib ≥ 3.8, networkx ≥ 3.1
 
 install dependencies with:
 ```bash
